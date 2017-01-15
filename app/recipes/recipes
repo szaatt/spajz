@@ -1,0 +1,40 @@
+{
+  "ïngredients" : [
+    {
+      "name":"krumpli",
+      "quantity":"1",
+      "measure":"kg"
+    },
+    {
+      "name":"tejföl",
+      "quantity":"2",
+      "measure":"dl"
+    },
+    {
+      "name":"babérlevél",
+      "quantity":"2",
+      "measure":"db"
+    },
+    {
+      "name":"só",
+      "quantity":"1",
+      "measure":"csipet"
+    },
+    {
+      "name":"liszt",
+      "quantity":"1",
+      "measure":"evőkanál"
+    },
+    {
+      "name":"pirospaprika",
+      "quantity":"1",
+      "measure":"mokkás kanál"
+    },
+    {
+      "name":"olaj",
+      "quantity":"2",
+      "measure":"evőkanál"
+    }
+  ],
+  "directions":"A krumplit megtisztitjuk és karikára vágjuk. Sóval és babérlevéllel főzzük annyi vizben ami éppen ellepi. Közven rántást készitünk: Az oldajon enyhén megpritijuk a lisztet, majd a túzről levéve pirospaprikát teszünk hozzá. Tejföllel csomómentesre keverjük. Szedünk rá a krumpli főzőlevéből (hőkiegyenlités), majd hozzákeverjük a krumplihoz. Még egyszer összefőzzük a főzeléket."
+}
